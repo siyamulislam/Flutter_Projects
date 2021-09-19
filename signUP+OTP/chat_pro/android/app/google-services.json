@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935669381612",
+    "firebase_url": "https://damo-a2180.firebaseio.com",
+    "project_id": "damo-a2180",
+    "storage_bucket": "damo-a2180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935669381612:android:281e9c73d57807103ee8c9",
+        "android_client_info": {
+          "package_name": "com.example.chat_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935669381612-p01ekbbpb3lgp9d869tj71dah39jv4sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMzYhT-6tLP39ZbFqHCPnM6fkfUSqaUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935669381612-p01ekbbpb3lgp9d869tj71dah39jv4sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
